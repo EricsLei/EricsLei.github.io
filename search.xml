@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>MySql</title>
-    <url>/EricsLei/2022/03/30/MySql/</url>
+    <url>/2022/03/30/MySql/</url>
     <content><![CDATA[<h1 id="MySQL基础"><a href="#MySQL基础" class="headerlink" title="MySQL基础"></a>MySQL基础</h1><h2 id="一、数据库"><a href="#一、数据库" class="headerlink" title="一、数据库"></a>一、数据库</h2><h3 id="1-1-数据库概念"><a href="#1-1-数据库概念" class="headerlink" title="1.1 数据库概念"></a>1.1 数据库概念</h3><blockquote>
 <p>数据库（DataBase）是长期存储在计算机内部有结构的，大量的，共享的数据集合</p>
 </blockquote>
@@ -1866,7 +1866,7 @@
   </entry>
   <entry>
     <title>数据结构与算法</title>
-    <url>/EricsLei/2022/05/09/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</url>
+    <url>/2022/05/09/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<h1 id="排序"><a href="#排序" class="headerlink" title="排序"></a>排序</h1><h2 id="基础排序"><a href="#基础排序" class="headerlink" title="基础排序"></a>基础排序</h2><h3 id="选择排序"><a href="#选择排序" class="headerlink" title="选择排序"></a>选择排序</h3><blockquote>
 <p>思想：每次选择一个数组中最小的元素放在数组的前面。</p>
 <p>实现：嵌套for循环，外层循环定义循环次数，内层循环找出最小的值，额外写一个swap方法实现数组的元素交换</p>
